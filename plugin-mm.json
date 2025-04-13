@@ -1,0 +1,16 @@
+{
+    "MetaModulePluginMaintainer": "oksami",
+    "MetaModulePluginMaintainerEmail": "itsoksami@gmail.com",
+    "MetaModulePluginMaintainerUrl": "https://github.com/Ericxgao/metamodule-rigatoni",
+    "MetaModuleDescription": "Rigatoni for MetaModule",
+    "MetaModuleIncludedModules": [
+        {
+            "slug": "RigatoniModular-ThruZero",
+            "name": "Thru Zero"
+        },
+        {
+            "slug": "RigatoniModular-Loom",
+            "name": "Loom"
+        }
+    ]
+}
